@@ -1,0 +1,20 @@
+java -jar selenium-server-4.26.0.jar standalone
+
+jenkin 5279b177c97d4709a9d6b0206177d905
+java -jar jenkins.war --httpPort=8086 --enable-future-java
+url:http://localhost:8086/
+user Admin
+pwd:Admin
+
+BHU2YV73WH
+FSHSCDRVG7
+ZH3V2XVT85
+Y4DJTTV92P
+RQJXYBPPF6
+EBNA2K5EN6
+7QNZ274RDH
+88HX746HNT
+UWVWTSDX48
+FVMDUNQY2G
+
+https://63dc-108-59-71-194.ngrok-free.app 
